@@ -25,15 +25,15 @@ My goal is to strengthen my understanding of **Data Science concepts** by learni
 
 ## 🛠️ Tools & Technologies
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
-Anaconda
-SQL
-Machine Learning
+** Python
+** NumPy
+** Pandas
+** Matplotlib
+** Seaborn
+** Jupyter Notebook
+** Anaconda
+** SQL
+** Machine Learning
 
 
 ## 📂 Repository Contents
